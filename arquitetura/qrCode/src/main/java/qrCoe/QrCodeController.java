@@ -1,4 +1,4 @@
-package qrCode;
+package qrCoe;
 
 import java.awt.image.BufferedImage;
 import java.io.ByteArrayOutputStream;
